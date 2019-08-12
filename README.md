@@ -1,3 +1,5 @@
+# Used for Alfred => ITerm Shell replacement
+
 # custom-iterm-applescripts-for-alfred
 This repository contains custom Applescripts that can be put into the Alfred --> Features --> Terminal --> Custom section to enable the correct operation of iTerm with Alfred.
 
